@@ -1,8 +1,9 @@
 
 👋 Hi! I'm Javier a Software Engineer working on Equals and trying my best to become a Cloud architect.
-```
-You cannot do today’s job with yesterday’s methods and be in business tomorrow — George W Bush
-```
+
+>_You cannot do today’s job with yesterday’s methods and be in business tomorrow_
+> _- George W Bush_
+
 
 
 ### Recomendations
