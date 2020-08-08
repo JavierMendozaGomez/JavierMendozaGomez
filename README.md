@@ -1,4 +1,22 @@
-### Hi there 👋
+
+👋 Hi! I'm Javier a Software Engineer working on Equals and trying my best to become a Cloud architect.
+```
+You cannot do today’s job with yesterday’s methods and be in business tomorrow — George W Bush
+```
+
+
+### Recomendations
+#### Books
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+ * [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+#### Blogs 
+* [The Burning monk](https://theburningmonk.com/)
+* [Jeremy Daly](https://www.jeremydaly.com/)
+#### Youtube channels
+* [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
+* [Serverless Architecture Conference](https://www.youtube.com/channel/UCDktNpuKVzVdQinivTMdDcQ/featured)
+
 
 <!--
 **JavierMendozaGomez/JavierMendozaGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
