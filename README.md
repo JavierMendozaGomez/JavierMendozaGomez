@@ -1,6 +1,6 @@
 
 
-👋 Hi! I'm Javier a Software Engineer working on Equals and trying my best to become a Cloud architect.
+👋 Hi! I'm Javier a Software Engineer working on Lego and trying my best to become a Cloud architect.
 
 >_You can not do today’s job with yesterday’s methods and be in business tomorrow_
 >
