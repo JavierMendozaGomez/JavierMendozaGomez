@@ -16,8 +16,9 @@ She has nothing left to give you now.
 
 And if you find her poor, Ithaka won’t have fooled you.  
 Wise as you will have become, so full of experience,  
-you’ll have understood by then what these Ithakas mean.  
+you’ll have understood by then what these Ithakas mean.
 
+Ithaka by C. P. CAVAFY
 
 ----
 #### Recommendations
