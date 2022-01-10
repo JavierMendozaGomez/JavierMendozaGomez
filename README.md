@@ -22,13 +22,11 @@ Ithaka by C. P. CAVAFY
 
 ----
 #### Recommendations
-##### Books 
-* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
- * [Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ##### Blogs
+* [Off by None by Jeremy Daly](https://offbynone.io)
 * [The Burning monk](https://theburningmonk.com/)
-* [Jeremy Daly](https://www.jeremydaly.com/)
+* [Paul Swali](https://serverlessfirst.com/articles/)
 ##### Youtube channels
 * [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
 * [Serverless Architecture Conference](https://www.youtube.com/channel/UCDktNpuKVzVdQinivTMdDcQ/featured)
